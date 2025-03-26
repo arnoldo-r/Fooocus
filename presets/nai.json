@@ -27,6 +27,6 @@
   "embeddings_downloads": {},
   "lora_downloads": {},
   "vae_downloads": {
-    "SDXL_VAE.safetensors": "https://huggingface.co/stabilityai/sdxl-vae/blob/main/sdxl_vae.safetensors"
+    "SDXL_VAE.safetensors": "https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
   }
 }
