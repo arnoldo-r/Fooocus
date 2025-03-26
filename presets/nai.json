@@ -22,7 +22,7 @@
   "default_overwrite_step": 25,
   "default_inpaint_engine_version": "None",
   "checkpoint_downloads": {
-    "NoobAI.safetensors": "https://huggingface.co/Laxhar/noobai-XL-1.1/blob/main/NoobAI-XL-v1.1.safetensors"
+    "NoobAI.safetensors": "https://huggingface.co/Laxhar/noobai-XL-1.1/resolve/main/NoobAI-XL-v1.1.safetensors"
   },
   "embeddings_downloads": {},
   "lora_downloads": {},
