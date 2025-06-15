@@ -15,14 +15,14 @@
   "default_sampler": "euler_ancestral",
   "default_scheduler": "karras",
   "default_performance": "Speed",
-  "default_prompt": "masterpiece, best quality, newest, absurdres, highres, ",
-  "default_prompt_negative": "worst quality, bad quality, lowres, old, oldest, sketch, jpeg artifacts, signature, watermark, artist name, bad anatomy, simple background, ",
+  "default_prompt": "masterpiece, best quality, absurdres, highres, ",
+  "default_prompt_negative": "worst quality, bad quality, lowres, sketch, signature, watermark, artist name, simple background, ",
   "default_styles": [],
   "default_aspect_ratio": "896*1152",
   "default_overwrite_step": 25,
   "default_inpaint_engine_version": "None",
   "checkpoint_downloads": {
-    "Nova.safetensors": "https://civitai.com/api/download/models/1626156?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=8f0aea0979979186cc5e2877272fb27b"
+    "Nova.safetensors": "https://civitai.com/api/download/models/1865346?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=8f0aea0979979186cc5e2877272fb27b"
   },
   "embeddings_downloads": {},
   "lora_downloads": {},
